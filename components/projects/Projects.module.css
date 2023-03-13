@@ -1,0 +1,17 @@
+.projects h1 {
+  text-align: center;
+}
+
+.project {
+  margin: 0 auto;
+  width: 80%;
+  height: 50%;
+  background-color: lightgrey;
+}
+
+.imagePlaceholder {
+  /* margin-top: 16px; */
+  height: 80%;
+  width: 80%;
+  background-color: lightblue;
+}
